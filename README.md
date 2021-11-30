@@ -5,7 +5,7 @@ The Multi-Value Dictionary app is a command line application that stores a multi
 
 **TO RUN APPLICATION**
 
-It should support the following commands.
+The application supports the following commands. Please, keep in mind the application is case-sensitive and will require that commands be in all capital letters.
 
 ### KEYS
 Returns all the keys in the dictionary.  Order is not guaranteed.
