@@ -37,7 +37,7 @@ namespace SpreetailWorkSample
                 if (string.IsNullOrEmpty(command))
                 {
                     _logger.LogError("Please, enter a command.");
-                    break;
+                    continue;
                 }
                 string[] commandArguments = command.Split();
 
