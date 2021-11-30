@@ -4,6 +4,12 @@ The Multi-Value Dictionary app is a command line application that stores a multi
 [.NET CORE Runtime or SDK](https://dotnet.microsoft.com/download/dotnet/5.0)
 
 **TO RUN APPLICATION**
+1) Ensure you have downloaded SDK above. 
+2) Click on the latest release.
+3) Download the SpreetailWorkSample.exe file to your computer. If you encounter trust issues, simply select the Trust/Run Anyway options.
+4) Double click the downloaded file to start the application.
+5) Enter the commands below! 
+6) Enter "QUIT" to exit the application.
 
 The application supports the following commands. Please, keep in mind the application is case-sensitive and will require that commands be in all capital letters.
 
@@ -234,5 +240,14 @@ Example:
 ) 2
 > COUNTMEMBERS bang
 ) 1
+```
+
+### QUIT
+Stops the application and closes the console.
+
+Example:
+```
+> QUIT
+Application stops and closes.
 ```
 
